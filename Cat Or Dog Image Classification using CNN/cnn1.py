@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 14 17:59:49 2020
 
-@author: Jawahar
-"""
 
 #Part 1- Building the CNN as preprocessing is done beforehand
 
