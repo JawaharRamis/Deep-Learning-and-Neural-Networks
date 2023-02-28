@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 15:41:05 2020
 
-@author: Jawahar
-"""
 
 # Classification template
 
